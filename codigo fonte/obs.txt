@@ -1,0 +1,1 @@
+Para correto funcionamento, o codigo fonte deve ser iniciado pelo diretorio raiz da pasta, no caso na pasta base_dengue
